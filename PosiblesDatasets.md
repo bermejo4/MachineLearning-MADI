@@ -11,3 +11,5 @@ Lista de posibles datasets para el trabajo final:
 - Google Play Store Apps: https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 - Electric Vehicle Charging Patterns: https://www.kaggle.com/datasets/valakhorasani/electric-vehicle-charging-patterns
+
+- Cybersecurity Salaries: https://www.kaggle.com/datasets/infosecjobs/global-salaries-in-cybersecurity-infosec/data 
